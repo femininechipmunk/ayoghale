@@ -1,0 +1,153 @@
+*{
+    background-color: black;
+    color: cornsilk;
+}
+
+ul.cats{
+    border-right: 1px solid rgb(1, 22, 22);
+    border: 1px solid #e7e7e7;
+    padding: 0;
+    width: 100%;
+    margin: 0;
+    position: -webkit-sticky;
+    font-style: normal;
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+    top: 0;
+}
+
+li.sad{
+    display: inline;
+    text-decoration: none;
+    float: left;
+}
+
+.active,.bedo,.mado,.geow,.shola,.anima,.sami,.lung{
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.active:hover{
+    background-color: rgb(3, 85, 51);
+    border-right: black;
+}
+.bedo:hover{
+    background-color: rgb(3, 85, 51);
+    border-right: black;
+}
+.mado:hover{
+    background-color: rgb(3, 85, 51);
+    border-right: black;
+}
+.geow:hover{
+    background-color: rgb(3, 85, 51);
+    border-right: black;
+}
+.shola:hover{
+    background-color: rgb(3, 85, 51);
+    border-right: black;
+}
+.anima:hover{
+    background-color: rgb(3, 85, 51);
+    border-right: black;
+}
+.sami:hover{
+    background-color: rgb(3, 85, 51);
+    border-right: black;
+}
+.lung:hover{
+        background-color: rgb(3, 85, 51);
+        border-right: black;
+}
+
+.resident{
+    border-radius: 20px;
+    top: 30px;
+}
+.samile{
+    color: cornsilk;
+    
+}
+
+.chad{
+    width: 30%;
+    height: 30%;
+    border-radius: 20px;
+}
+
+
+.lion{
+    width: 1325px;
+    height: 600px;
+    border-radius: 20px;
+}
+
+.lime{
+    font-size: 25px;
+}
+
+.maroon{
+    width: 50%;
+    height: 50%;
+    border-radius: 15px;
+}
+
+.limao{
+    width: 600px;
+    margin: 15px;
+    padding-left: 10px;
+    float: right;
+}
+
+.urchin{
+    text-decoration-line: underline;
+}
+
+aside{
+    width: 900px; 
+    padding-left: 10px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+}
+
+div{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.lala{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.boothang{
+    border-radius: 10px;
+}
+
+footer.geli{
+    background-color: rgb(3, 85, 51);
+    width: 100%;
+}
+
+.breli{
+    font-size: 35px;
+}
+
+.gawd{
+    width: 1350px;
+    height: 600px;
+    border-radius: 20px;
+}
+.blase{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.energa{
+    background-color: rgb(3, 85, 51);
+    font-size: 30px;
+    border-radius: 10px;
+}
