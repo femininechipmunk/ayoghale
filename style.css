@@ -95,7 +95,7 @@ li.sad{
 }
 
 .limao{
-    width: 600px;
+    width: 45%;
     margin: 15px;
     padding-left: 10px;
     float: right;
@@ -106,7 +106,7 @@ li.sad{
 }
 
 aside{
-    width: 900px; 
+    width: 45%; 
     padding-left: 10px;
     margin-left: 15px;
     float: right;
